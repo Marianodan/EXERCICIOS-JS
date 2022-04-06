@@ -6,7 +6,7 @@ qualquer = 3.1516
 console.log(qualquer)
 console.log(typeof qualquer)
 
-// Evitar a escolhe de nomes genércios e siglas
+// Evitar a escolhe de nomes genéricios e siglas
 let valor = ''
 let numero = 1
 let pqp =false //Produto Químico Perigoso... kkk
