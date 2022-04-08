@@ -9,4 +9,4 @@ console.log(typeof qualquer)
 // Evitar a escolhe de nomes genéricios e siglas
 let valor = ''
 let numero = 1
-let pqp =false //Produto Químico Perigoso... kkk
+let pqp = false //Produto Químico Perigoso... kkk

@@ -9,7 +9,7 @@ console.log(escola.substring(1))
 console.log(escola.substring(0, 3)) // Do indice 0 até o indice 3
 
 console.log('Escola '.concat(escola).concat("!"))
-console.log('Escola ' + escola + "!") // o + na String funciona como Concatenação
+console.log('Escola ' + escola + "!") // + na String funciona como Concatenação
 console.log(escola.replace(3 , 'e'))
 
 console.log('Ana,Maria,Pedro'.split(','))
